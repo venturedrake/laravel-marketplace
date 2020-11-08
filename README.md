@@ -1,8 +1,10 @@
 # Laravel Marketplace
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/venturedrake/laravel-marketplace.svg?style=flat-square)](https://packagist.org/packages/venturedrake/laravel-marketplace)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/venturedrake/laravel-marketplace/run-tests?label=tests)](https://github.com/venturedrake/laravel-marketplace/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/venturedrake/laravel-marketplace.svg?style=flat-square)](https://packagist.org/packages/venturedrake/laravel-marketplace)
+<!--- [![Latest Version on Packagist](https://img.shields.io/packagist/v/venturedrake/laravel-marketplace.svg?style=flat-square)](https://packagist.org/packages/venturedrake/laravel-marketplace) --->
+[![Build Status](https://travis-ci.com/venturedrake/laravel-marketplace.svg?branch=master)](https://travis-ci.com/venturedrake/laravel-marketplace)
+[![StyleCI](https://github.styleci.io/repos/310991233/shield?branch=master)](https://github.styleci.io/repos/310991233?branch=master)
+<!--- [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/venturedrake/laravel-marketplace/run-tests?label=tests)](https://github.com/venturedrake/laravel-marketplace/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/venturedrake/laravel-marketplace.svg?style=flat-square)](https://packagist.org/packages/venturedrake/laravel-marketplace) --->
 
 > ⚠️ Warning: This is a pre-release version that is not yet ready for production use.
 
