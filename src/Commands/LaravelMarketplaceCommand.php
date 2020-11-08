@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace VentureDrake\LaravelMarketplace\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelMarketplaceCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-marketplace';
 
     public $description = 'My command';
 

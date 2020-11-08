@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace VentureDrake\LaravelMarketplace\Tests;
 
 class ExampleTest extends TestCase
 {
