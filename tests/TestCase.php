@@ -2,7 +2,7 @@
 
 namespace VentureDrake\LaravelMarketplace\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
+/*use Illuminate\Database\Eloquent\Factories\Factory;*/
 use Orchestra\Testbench\TestCase as Orchestra;
 use VentureDrake\LaravelMarketplace\LaravelMarketplaceServiceProvider;
 
