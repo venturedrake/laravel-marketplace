@@ -13,7 +13,9 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'VentureDrake\\LaravelMarketplace\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            function (string $modelName) {
+                return 'VentureDrake\\LaravelMarketplace\\Database\\Factories\\' . class_basename($modelName) . 'Factory';
+            }
         );
     }
 
