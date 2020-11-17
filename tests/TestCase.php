@@ -12,11 +12,11 @@ class TestCase extends Orchestra
     {
         parent::setUp();
 
-       /* Factory::guessFactoryNamesUsing(
-            function (string $modelName) {
-                return 'VentureDrake\\LaravelMarketplace\\Database\\Factories\\' . class_basename($modelName) . 'Factory';
-            }
-        );*/
+        /* Factory::guessFactoryNamesUsing(
+             function (string $modelName) {
+                 return 'VentureDrake\\LaravelMarketplace\\Database\\Factories\\' . class_basename($modelName) . 'Factory';
+             }
+         );*/
     }
 
     protected function getPackageProviders($app)
