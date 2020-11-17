@@ -2,7 +2,7 @@
 
 namespace VentureDrake\LaravelMarketplace\Database\Factories;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
+/*use Illuminate\Database\Eloquent\Factories\Factory;*/
 
 /*
 class ModelFactory extends Factory
